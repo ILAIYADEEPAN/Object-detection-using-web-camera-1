@@ -90,7 +90,6 @@ cv2.destroyAllWindows()
 
 # OUTPUT:
 
-<img width="796" height="638" alt="image" src="https://github.com/user-attachments/assets/38d726ef-61ef-49c9-9d29-99c70faccb79" />
 
 
  
